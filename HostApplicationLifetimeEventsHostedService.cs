@@ -1,4 +1,3 @@
-
 public class HostApplicationLifetimeEventsHostedService : IHostedService
 {
     private readonly IHostApplicationLifetime _hostApplicationLifetime;
